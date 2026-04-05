@@ -9,6 +9,7 @@
 | [0626-exchange-seats](https://github.com/priyanshuakv/leetcode/tree/master/0626-exchange-seats) |
 | [1148-article-views-i](https://github.com/priyanshuakv/leetcode/tree/master/1148-article-views-i) |
 | [1341-movie-rating](https://github.com/priyanshuakv/leetcode/tree/master/1341-movie-rating) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/priyanshuakv/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/priyanshuakv/leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/priyanshuakv/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
