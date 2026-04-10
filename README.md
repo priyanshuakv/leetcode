@@ -13,6 +13,7 @@
 | [0626-exchange-seats](https://github.com/priyanshuakv/leetcode/tree/master/0626-exchange-seats) |
 | [1068-product-sales-analysis-i](https://github.com/priyanshuakv/leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/priyanshuakv/leetcode/tree/master/1148-article-views-i) |
+| [1251-average-selling-price](https://github.com/priyanshuakv/leetcode/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/priyanshuakv/leetcode/tree/master/1280-students-and-examinations) |
 | [1341-movie-rating](https://github.com/priyanshuakv/leetcode/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/priyanshuakv/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
